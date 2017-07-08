@@ -5,6 +5,12 @@
     modules: [
         {
             name: "main"
+        },
+        {
+          name: "page1"
+        },
+        {
+          name: "page2"
         }
     ]
 })
